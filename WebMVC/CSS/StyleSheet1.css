@@ -1,0 +1,15 @@
+﻿.navigation__bg {
+    background-color: #0e0e0e;
+}
+
+.navigation a {
+    color: #fff;
+    padding: 15px 25px;
+    text-decoration: none;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
